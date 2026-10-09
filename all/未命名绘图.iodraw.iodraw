@@ -27,7 +27,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="360" />
-              <mxPoint x="190" y="360" />
+              <mxPoint x="180" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,13 +72,13 @@
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_tKHWRZw2ZoxFkejHlo-11" target="A_tKHWRZw2ZoxFkejHlo-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="480" />
+              <mxPoint x="180" y="480" />
               <mxPoint x="290" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-11" value="生产经理&lt;div&gt;周慎颖&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-12" value="项目总工&lt;div&gt;周艳&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
