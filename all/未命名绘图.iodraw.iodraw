@@ -49,6 +49,9 @@
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-16" value="技术员&lt;div&gt;柳志鸿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A_tKHWRZw2ZoxFkejHlo-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
