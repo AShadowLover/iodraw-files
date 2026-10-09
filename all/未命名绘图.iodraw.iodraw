@@ -53,6 +53,15 @@
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-8" value="项目副经理&lt;div&gt;赵瑞昶&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="639" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A_tKHWRZw2ZoxFkejHlo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_tKHWRZw2ZoxFkejHlo-11" target="A_tKHWRZw2ZoxFkejHlo-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_tKHWRZw2ZoxFkejHlo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_tKHWRZw2ZoxFkejHlo-11" target="A_tKHWRZw2ZoxFkejHlo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_tKHWRZw2ZoxFkejHlo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_tKHWRZw2ZoxFkejHlo-11" target="A_tKHWRZw2ZoxFkejHlo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-11" value="生产经理&lt;div&gt;周慎颖&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="400" width="120" height="60" as="geometry" />
         </mxCell>
