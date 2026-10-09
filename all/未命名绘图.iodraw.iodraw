@@ -44,14 +44,11 @@
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-16" value="技术员&lt;div&gt;柳志鸿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A_tKHWRZw2ZoxFkejHlo-17" value="责任工程师&lt;div&gt;韩家军&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-18" value="责任工程师&lt;div&gt;郭智远&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-19" value="劳资管理员&lt;div&gt;聂世宇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-20" value="预算员&lt;div&gt;王涛&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="120" height="60" as="geometry" />
@@ -73,9 +70,6 @@
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-26" value="责任工程师&lt;div&gt;郭智远&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A_tKHWRZw2ZoxFkejHlo-27" value="责任工程师&lt;div&gt;韩家军&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-28" value="责任工程师&lt;div&gt;韩家军&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="440" width="120" height="60" as="geometry" />
