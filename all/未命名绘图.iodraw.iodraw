@@ -67,8 +67,11 @@
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-22" value="材料员&lt;div&gt;李倩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A_tKHWRZw2ZoxFkejHlo-23" value="材料员&lt;div&gt;李倩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="A_tKHWRZw2ZoxFkejHlo-23" value="安全员&lt;div&gt;张思汀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_tKHWRZw2ZoxFkejHlo-24" value="安全员&lt;div&gt;张思汀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
