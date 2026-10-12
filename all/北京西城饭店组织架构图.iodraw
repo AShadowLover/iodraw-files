@@ -16,7 +16,7 @@
           <mxGeometry x="525" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-8" value="项目副经理&lt;div style=&quot;font-size: 16px;&quot;&gt;赵瑞昶&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="644" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="645" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="bWQ6BBbBtfQu6Uightvq-4" target="bWQ6BBbBtfQu6Uightvq-16">
           <mxGeometry relative="1" as="geometry" />
@@ -24,98 +24,98 @@
         <mxCell id="bWQ6BBbBtfQu6Uightvq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bWQ6BBbBtfQu6Uightvq-4" target="bWQ6BBbBtfQu6Uightvq-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="430" />
-              <mxPoint x="580" y="430" />
+              <mxPoint x="680" y="380" />
+              <mxPoint x="580" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bWQ6BBbBtfQu6Uightvq-4" target="bWQ6BBbBtfQu6Uightvq-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="430" />
-              <mxPoint x="775" y="430" />
-              <mxPoint x="775" y="460" />
+              <mxPoint x="680" y="380" />
+              <mxPoint x="775" y="380" />
+              <mxPoint x="775" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-4" value="商务经理&lt;div style=&quot;font-size: 16px;&quot;&gt;郑介&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-5" value="安全总监&lt;div&gt;刘振生&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="1035" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="bWQ6BBbBtfQu6Uightvq-9" target="bWQ6BBbBtfQu6Uightvq-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="430" />
-              <mxPoint x="60" y="430" />
+              <mxPoint x="160" y="380" />
+              <mxPoint x="60" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="bWQ6BBbBtfQu6Uightvq-9" target="bWQ6BBbBtfQu6Uightvq-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="410" />
-              <mxPoint x="160" y="410" />
+              <mxPoint x="160" y="360" />
+              <mxPoint x="160" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="bWQ6BBbBtfQu6Uightvq-9" target="bWQ6BBbBtfQu6Uightvq-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="430" />
-              <mxPoint x="260" y="430" />
+              <mxPoint x="160" y="380" />
+              <mxPoint x="260" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-9" value="生产经理&lt;div style=&quot;font-size: 16px;&quot;&gt;周慎颖&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="100" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWQ6BBbBtfQu6Uightvq-11" target="bWQ6BBbBtfQu6Uightvq-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-11" value="项目总工&lt;div style=&quot;font-size: 16px;&quot;&gt;周艳&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="355" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="bWQ6BBbBtfQu6Uightvq-11" target="bWQ6BBbBtfQu6Uightvq-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="365" y="440" as="targetPoint" />
+            <mxPoint x="365" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-13" value="技术员&lt;div style=&quot;font-size: 16px;&quot;&gt;柳志鸿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="325" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="325" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-14" value="劳资管理员&lt;div style=&quot;font-size: 16px;&quot;&gt;聂世宇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="215" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="215" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-15" value="预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;王涛&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="535" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="535" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-16" value="预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;蒋奎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="635" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="635" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-17" value="材料员&lt;div style=&quot;font-size: 16px;&quot;&gt;李倩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="735" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="735" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bWQ6BBbBtfQu6Uightvq-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="400" as="sourcePoint" />
+            <mxPoint x="1100" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-19" value="机电工程师&lt;div style=&quot;font-size: 16px;&quot;&gt;蒋宏宇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="845" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="845" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-20" value="机电预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;程文浩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="945" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="945" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-21" value="责任工程师&lt;div style=&quot;font-size: 16px;&quot;&gt;郭智远&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="15" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="15" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-22" value="责任工程师&lt;div style=&quot;font-size: 16px;&quot;&gt;韩家军&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="115" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="115" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-23" value="质量员&lt;div&gt;李治建&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="425" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="425" y="410" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWQ6BBbBtfQu6Uightvq-26" target="bWQ6BBbBtfQu6Uightvq-19">
           <mxGeometry relative="1" as="geometry" />
@@ -124,10 +124,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-26" value="机电部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="875" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="875" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWQ6BBbBtfQu6Uightvq-27" value="安全员&lt;div&gt;张思汀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="1055" y="410" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
