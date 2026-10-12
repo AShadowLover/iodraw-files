@@ -10,16 +10,17 @@
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="A_tKHWRZw2ZoxFkejHlo-3" target="A_tKHWRZw2ZoxFkejHlo-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="420" />
-              <mxPoint x="530" y="420" />
+              <mxPoint x="640" y="430" />
+              <mxPoint x="585" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="A_tKHWRZw2ZoxFkejHlo-3" target="A_tKHWRZw2ZoxFkejHlo-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="420" />
-              <mxPoint x="749" y="420" />
+              <mxPoint x="640" y="430" />
+              <mxPoint x="749" y="430" />
+              <mxPoint x="749" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
