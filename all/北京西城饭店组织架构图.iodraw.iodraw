@@ -135,34 +135,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-16" value="技术员&lt;div style=&quot;font-size: 16px;&quot;&gt;柳志鸿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="360" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="360" y="460" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-19" value="劳资管理员&lt;div style=&quot;font-size: 16px;&quot;&gt;聂世宇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="240" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="240" y="460" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-20" value="预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;王涛&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="480" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="480" y="460" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-21" value="预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;蒋奎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="589" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="589" y="460" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-22" value="材料员&lt;div style=&quot;font-size: 16px;&quot;&gt;李倩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="699" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="699" y="460" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-23" value="安全员&lt;div style=&quot;font-size: 16px;&quot;&gt;张思汀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="820" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="820" y="460" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-24" value="机电工程师&lt;div style=&quot;font-size: 16px;&quot;&gt;蒋宏宇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="940" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="940" y="460" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-25" value="机电预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;程文浩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="1050" y="460" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-26" value="责任工程师&lt;div style=&quot;font-size: 16px;&quot;&gt;郭智远&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="20" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="20" y="460" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-28" value="责任工程师&lt;div style=&quot;font-size: 16px;&quot;&gt;韩家军&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="130" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="130" y="460" width="94" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
