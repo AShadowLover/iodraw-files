@@ -193,7 +193,7 @@
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EKylDBJeI9Iv8nbT3IYO-4" target="EKylDBJeI9Iv8nbT3IYO-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EKylDBJeI9Iv8nbT3IYO-4" target="EKylDBJeI9Iv8nbT3IYO-25">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EKylDBJeI9Iv8nbT3IYO-4" target="EKylDBJeI9Iv8nbT3IYO-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EKylDBJeI9Iv8nbT3IYO-4" target="EKylDBJeI9Iv8nbT3IYO-24">
@@ -226,7 +226,7 @@
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-20" value="北安消防&lt;div&gt;吴冰&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="740" y="640" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-21" value="昱华九州&lt;div&gt;电梯&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-21" value="&lt;span style=&quot;background-color: initial;&quot;&gt;室内电梯&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="840" y="640" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-24" value="钢结构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
