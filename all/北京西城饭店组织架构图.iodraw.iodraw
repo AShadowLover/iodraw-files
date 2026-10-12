@@ -71,7 +71,12 @@
           <mxGeometry x="519" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_tKHWRZw2ZoxFkejHlo-8" target="A_tKHWRZw2ZoxFkejHlo-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1095" y="250" />
+              <mxPoint x="1095" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-8" value="安全总监&lt;div&gt;刘振生&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="639" y="220" width="120" height="60" as="geometry" />
@@ -156,7 +161,7 @@
         <mxCell id="xYVv3L0tX-dDNiBo6_YP-1" value="机电部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="880" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-2" value="机电预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;程文浩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-2" value="安全员&lt;div&gt;张思汀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1060" y="460" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
