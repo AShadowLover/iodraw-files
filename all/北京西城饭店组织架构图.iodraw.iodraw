@@ -166,8 +166,8 @@
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-2" value="安全员&lt;div&gt;张思汀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1060" y="460" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-4" value="分包单位负责人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
