@@ -171,8 +171,8 @@
         <mxCell id="gUCU03z1p2P1McxFVnDW-1" value="质量员&lt;div&gt;李治建&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="430" y="460" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xYVv3L0tX-dDNiBo6_YP-1" value="安全总监&lt;div style=&quot;font-size: 16px;&quot;&gt;刘振生&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="845" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="xYVv3L0tX-dDNiBo6_YP-1" value="机电部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
