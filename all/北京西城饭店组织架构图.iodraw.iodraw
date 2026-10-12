@@ -167,10 +167,10 @@
           <mxGeometry x="1060" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-4" value="分包单位负责人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="519" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="519" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
