@@ -141,13 +141,13 @@
           <mxGeometry x="220" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-20" value="预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;王涛&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="480" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="519" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-21" value="预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;蒋奎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="589" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="630" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-22" value="材料员&lt;div style=&quot;font-size: 16px;&quot;&gt;李倩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="699" y="460" width="90" height="60" as="geometry" />
+          <mxGeometry x="740" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-23" value="安全员&lt;div style=&quot;font-size: 16px;&quot;&gt;张思汀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="850" y="460" width="90" height="60" as="geometry" />
@@ -163,6 +163,9 @@
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-28" value="责任工程师&lt;div style=&quot;font-size: 16px;&quot;&gt;韩家军&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="120" y="460" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUCU03z1p2P1McxFVnDW-1" value="预算员&lt;div style=&quot;font-size: 16px;&quot;&gt;王涛&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="429" y="460" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
