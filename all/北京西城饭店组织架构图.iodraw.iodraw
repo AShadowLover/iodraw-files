@@ -175,16 +175,16 @@
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EKylDBJeI9Iv8nbT3IYO-4" target="EKylDBJeI9Iv8nbT3IYO-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-4" value="分包单位负责人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-4" value="分包单位负责人" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="519" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-5" value="玉海恒通&lt;div&gt;张伯莹&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-5" value="玉海恒通&lt;div style=&quot;font-size: 14px;&quot;&gt;张伯莹&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="519" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-6" value="天津达威&lt;div&gt;欧金山&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-6" value="天津达威&lt;div style=&quot;font-size: 14px;&quot;&gt;欧金山&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-7" value="河南京豫&lt;div&gt;张永杰&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-7" value="河南京豫&lt;div style=&quot;font-size: 14px;&quot;&gt;张永杰&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="380" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
