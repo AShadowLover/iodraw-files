@@ -224,7 +224,10 @@
           <mxGeometry x="820" y="640" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-24" value="钢结构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="640" width="90" height="60" as="geometry" />
+          <mxGeometry x="1020" y="640" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-25" value="防火门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="640" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
