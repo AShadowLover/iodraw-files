@@ -294,7 +294,7 @@
             <mxPoint x="785" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-43" value="安全员&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-43" value="安全员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="740" y="760" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="EKylDBJeI9Iv8nbT3IYO-45">
@@ -320,6 +320,9 @@
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-49" value="安全员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1040" y="760" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-52" value="项目经理&lt;div&gt;赵瑞昶&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="529" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
