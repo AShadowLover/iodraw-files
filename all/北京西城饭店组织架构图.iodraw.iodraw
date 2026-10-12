@@ -294,7 +294,7 @@
             <mxPoint x="785" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-43" value="安全员&lt;div&gt;张思汀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-43" value="安全员&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="740" y="760" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="EKylDBJeI9Iv8nbT3IYO-45">
