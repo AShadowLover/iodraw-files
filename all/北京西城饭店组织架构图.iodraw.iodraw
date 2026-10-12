@@ -70,11 +70,10 @@
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-6" value="项目经理&lt;div&gt;赵瑞昶&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="519" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKylDBJeI9Iv8nbT3IYO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_tKHWRZw2ZoxFkejHlo-8" target="A_tKHWRZw2ZoxFkejHlo-23">
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_tKHWRZw2ZoxFkejHlo-8" target="A_tKHWRZw2ZoxFkejHlo-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1095" y="250" />
-              <mxPoint x="1095" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -134,8 +133,11 @@
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-22" value="材料员&lt;div style=&quot;font-size: 16px;&quot;&gt;李倩&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="740" y="460" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_tKHWRZw2ZoxFkejHlo-23" target="EKylDBJeI9Iv8nbT3IYO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-23" value="安全生产监督管理部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="340" width="90" height="60" as="geometry" />
+          <mxGeometry x="1060" y="340" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-24" value="机电工程师&lt;div style=&quot;font-size: 16px;&quot;&gt;蒋宏宇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="850" y="460" width="90" height="60" as="geometry" />
