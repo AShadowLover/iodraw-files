@@ -108,7 +108,12 @@
           <mxGeometry x="105" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gUCU03z1p2P1McxFVnDW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A_tKHWRZw2ZoxFkejHlo-12" target="gUCU03z1p2P1McxFVnDW-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="400" />
+              <mxPoint x="475" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-12" value="项目总工&lt;div style=&quot;font-size: 16px;&quot;&gt;周艳&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
@@ -116,6 +121,10 @@
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="A_tKHWRZw2ZoxFkejHlo-12" target="A_tKHWRZw2ZoxFkejHlo-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="400" />
+              <mxPoint x="375" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="A_tKHWRZw2ZoxFkejHlo-16" value="技术员&lt;div style=&quot;font-size: 16px;&quot;&gt;柳志鸿&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
