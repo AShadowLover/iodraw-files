@@ -220,6 +220,9 @@
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-15" value="北京凯伦&lt;div&gt;苏园园&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="540" y="640" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EKylDBJeI9Iv8nbT3IYO-16" target="EKylDBJeI9Iv8nbT3IYO-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-16" value="盛世中源&lt;div&gt;朱铃飞&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="640" width="90" height="60" as="geometry" />
         </mxCell>
@@ -234,6 +237,9 @@
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-25" value="防火门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="940" y="640" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKylDBJeI9Iv8nbT3IYO-28" value="安全员&lt;div&gt;张思汀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
