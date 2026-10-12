@@ -223,7 +223,7 @@
           <mxGeometry x="740" y="620" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-21" value="&lt;span style=&quot;background-color: initial;&quot;&gt;室内电梯&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="840" y="620" width="90" height="60" as="geometry" />
+          <mxGeometry x="1140" y="620" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-24" value="钢结构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1040" y="620" width="90" height="60" as="geometry" />
@@ -292,11 +292,11 @@
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="EKylDBJeI9Iv8nbT3IYO-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="885" y="680" as="sourcePoint" />
+            <mxPoint x="1185" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-45" value="安全员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="840" y="740" width="90" height="60" as="geometry" />
+          <mxGeometry x="1140" y="740" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKylDBJeI9Iv8nbT3IYO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="EKylDBJeI9Iv8nbT3IYO-47">
           <mxGeometry relative="1" as="geometry">
